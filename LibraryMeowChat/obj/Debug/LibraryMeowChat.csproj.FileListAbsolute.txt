@@ -1,0 +1,15 @@
+E:\Porjects\c#\Chat\ChatApplicationV4\LibraryMeowChat\bin\Debug\CommonLibrary.dll
+E:\Porjects\c#\Chat\ChatApplicationV4\LibraryMeowChat\bin\Debug\CommonLibrary.pdb
+E:\Porjects\c#\Chat\ChatApplicationV4\LibraryMeowChat\obj\Debug\CommonLibrary.dll
+E:\Porjects\c#\Chat\ChatApplicationV4\LibraryMeowChat\obj\Debug\CommonLibrary.pdb
+E:\Porjects\c#\MeowChat\LibraryMeowChat\bin\Debug\LibraryMeowChat.dll
+E:\Porjects\c#\MeowChat\LibraryMeowChat\bin\Debug\LibraryMeowChat.pdb
+E:\Porjects\c#\MeowChat\LibraryMeowChat\obj\Debug\LibraryMeowChat.dll
+E:\Porjects\c#\MeowChat\LibraryMeowChat\obj\Debug\LibraryMeowChat.pdb
+E:\Porjects\c#\MeowChat\LibraryMeowChat\obj\Debug\LibraryMeowChat.csprojResolveAssemblyReference.cache
+D:\projects\learningC#\MeowChat-master\LibraryMeowChat\bin\Debug\LibraryMeowChat.dll
+D:\projects\learningC#\MeowChat-master\LibraryMeowChat\bin\Debug\LibraryMeowChat.pdb
+D:\projects\learningC#\MeowChat-master\LibraryMeowChat\obj\Debug\LibraryMeowChat.csprojResolveAssemblyReference.cache
+D:\projects\learningC#\MeowChat-master\LibraryMeowChat\obj\Debug\LibraryMeowChat.dll
+D:\projects\learningC#\MeowChat-master\LibraryMeowChat\obj\Debug\LibraryMeowChat.pdb
+D:\projects\learningC#\MeowChat-master\LibraryMeowChat\obj\Debug\LibraryMeowChat.csproj.CoreCompileInputs.cache
