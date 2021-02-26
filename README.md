@@ -1,5 +1,5 @@
 MeowChat v4.3
-=======
-School Project, simple chat application using .Net sockets.
+=============
+School Project, simple chat application using TCP sockets.
 
-You can see the software preview inside the Demo folder
+Complied client and server apps can be foubd inside Demo folder.
